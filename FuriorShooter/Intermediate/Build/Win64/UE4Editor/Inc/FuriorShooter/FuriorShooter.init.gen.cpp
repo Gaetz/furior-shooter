@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeFuriorShooter_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x605C7D27,
-				0x4A3C35DF,
+				0x341DE9D2,
+				0x1EA1BF32,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

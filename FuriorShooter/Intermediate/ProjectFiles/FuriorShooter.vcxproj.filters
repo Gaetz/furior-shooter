@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FuriorShooter.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{AF53CD3D-DAC0-448A-ABC0-41684E406C47}</UniqueIdentifier>
+      <UniqueIdentifier>{0BE881C5-0350-4A4B-A330-BEAA87130D40}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FuriorShooter.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{8A98351D-1FA4-4D1F-8168-8FF2D55207DB}</UniqueIdentifier>
+      <UniqueIdentifier>{4E95DD49-F898-4887-A314-57FB0DDBB79C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\FuriorShooter">
-      <UniqueIdentifier>{0E5EDE04-E054-4BAE-ABFF-4994BAD5CDB7}</UniqueIdentifier>
+      <UniqueIdentifier>{9DB3B6B9-8D25-4AE0-B06C-3EF6E0EDD50F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FuriorShooter\FuriorShooter.Build.cs">
       <Filter>Source\FuriorShooter</Filter>
@@ -39,6 +42,12 @@
       <Filter>Source\FuriorShooter</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\FuriorShooter\FuriorShooterGameModeBase.h">
+      <Filter>Source\FuriorShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FuriorShooter\Hero.cpp">
+      <Filter>Source\FuriorShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FuriorShooter\Hero.h">
       <Filter>Source\FuriorShooter</Filter>
     </ClInclude>
   </ItemGroup>

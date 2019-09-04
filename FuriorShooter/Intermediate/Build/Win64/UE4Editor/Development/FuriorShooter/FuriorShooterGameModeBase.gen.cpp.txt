@@ -6,4 +6,4 @@ C:\Program Files (x86)\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\G
 C:\Program Files (x86)\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files (x86)\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files (x86)\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-c:\artfx\dev\furior-shooter\furiorshooter\intermediate\build\win64\ue4editor\inc\furiorshooter\FuriorShooterGameModeBase.generated.h
+C:\ArtFx\Dev\furior-shooter\FuriorShooter\Intermediate\Build\Win64\UE4Editor\Inc\FuriorShooter\FuriorShooterGameModeBase.generated.h
