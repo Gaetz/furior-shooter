@@ -1,2 +1,0 @@
-C:\ArtFx\Dev\furior-shooter\FuriorShooter\Intermediate\Build\Win64\UE4Editor\Development\FuriorShooter\Definitions.FuriorShooter.h
-C:\ArtFx\Dev\furior-shooter\FuriorShooter\Source\FuriorShooter\FuriorShooter.h

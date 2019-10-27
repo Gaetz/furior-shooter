@@ -1,3 +1,0 @@
-C:\ArtFx\Dev\furior-shooter\FuriorShooter\Source\FuriorShooter\FuriorShooter.Build.cs
-C:\ArtFx\Dev\furior-shooter\FuriorShooter\Source\FuriorShooter.Target.cs
-C:\ArtFx\Dev\furior-shooter\FuriorShooter\Source\FuriorShooterEditor.Target.cs
