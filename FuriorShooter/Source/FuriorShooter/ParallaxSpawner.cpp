@@ -27,7 +27,10 @@ void AParallaxSpawner::SpawnWithScale()
 {
 	FVector SpawnerLocation = GetActorLocation();
 	FRotator SpawnerRotator = GetActorQuat().Rotator();
-	FVector Scale = FVector::OneVector;
+
+	float Y = SpawnerLocation.Y;
+	float Size = (1000 + Y * PerspectiveSizeMultiplier) / 1000;
+	FVector Scale = FVector(Size, 1.0f, Size);
 
 	AActor* Spawned = GetWorld()->SpawnActor(Spawnable, &SpawnerLocation, &SpawnerRotator);
 	Spawned->SetActorScale3D(Scale);

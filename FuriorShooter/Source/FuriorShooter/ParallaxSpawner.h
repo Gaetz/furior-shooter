@@ -19,13 +19,13 @@ public:
 	TSubclassOf<class ASpawnElement> Spawnable;
 
 	UPROPERTY(EditAnywhere)
-	float PerspectiveSizeMultiplier;
+	float PerspectiveSizeMultiplier = 1.0f;
 
 	UPROPERTY(EditAnywhere)
-	float MinPeriod;
+	float MinPeriod = 1.0f;
 
 	UPROPERTY(EditAnywhere)
-	float MaxPeriod;
+	float MaxPeriod = 1.0f;
 
 protected:
 	// Time passed sin last spawn
